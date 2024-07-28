@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G3FF
+- 👋 Hi, I’m GEOFREY
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on EXCEL, SQL and PYTHON projects and Visualize profitable and relevant endevours using PowerBI for different businesses and Ventures
