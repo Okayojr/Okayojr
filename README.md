@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GEOFREY
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on EXCEL, SQL and PYTHON projects and Visualize profitable and relevant endevours using PowerBI for different businesses and Ventures
+- 💞️ I’m looking to collaborate on EXCEL, SQL and PYTHON projects and Visualize profitable and relevant endevours using Power BI for different businesses and Ventures
 - 📫 How to reach me @OKAYOG3FF on X
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I'm an upcoming music video director.
