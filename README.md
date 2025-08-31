@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GEOFREY
+- 👋 Hi, I’m GEOFREY OKAYO
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on EXCEL, SQL and PYTHON projects and Visualize profitable and relevant endevours using Power BI for different businesses and Ventures
